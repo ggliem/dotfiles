@@ -28,7 +28,7 @@
 
 
 ### Setup:
-- Follow guides such as [this one](https://medium.com/@alex285/get-powerlevel9k-the-most-cool-linux-shell-ever-1c38516b0caa) to learn how to set up ZSH, Oh My Zsh & PowerLevel9k
+- Follow guides such as [this one](https://medium.com/@alex285/get-powerlevel9k-the-most-cool-linux-shell-ever-1c38516b0caa) to learn how to set up ZSH, Oh My ZSH & PowerLevel9k
 - Used Resources:
     - [PowerLevel9k](https://github.com/Powerlevel9k/powerlevel9k) is a prompt theme for ZSH 
     - [Oh My ZSH](https://github.com/ohmyzsh/ohmyzsh) is a framework for managing your zsh configuration...
@@ -37,7 +37,7 @@
 
 ### Getting started
 - ZSH configuration file is located under `~/.zshrc`
-- See comments in .zshrc file itself that explain the different configurations
+- See comments in `.zshrc` file itself that explain the different configurations
 - Update path to your oh-my-zsh installation:
     ```bash
     export ZSH="/Users/<user>/.oh-my-zsh"
